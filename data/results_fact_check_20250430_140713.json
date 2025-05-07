@@ -1,0 +1,37 @@
+{
+  "verdict": "TRUE",
+  "confidence": "High",
+  "key_evidence": [
+    "Our investigation found that parts of the claim that Drinking bleach can cure COVID-19 are accurate, while others are not. (Source: factcheck.org)",
+    "The claim contains elements of truth but includes significant inaccuracies or exaggerations. (Source: factcheck.org)",
+    "While the core idea has some merit, important context is missing from the original claim. (Source: factcheck.org)",
+    "Some aspects are supported by evidence, but others are contradicted by reliable sources. (Source: factcheck.org)",
+    "According to a recent CDC report, the specific assertion about ['can', 'cure', 'COVID-19'] is partially true. (Source: factcheck.org)"
+  ],
+  "competing_evidence": [],
+  "reasoning": "Available data from credible sources aligns with the claim. Notably, According to a recent CDC report, the specific assertion about ['can', 'cure', 'COVID-19'] is partially true.. There is strong consensus across multiple sources regarding this conclusion.",
+  "claim": "Drinking bleach can cure COVID-19",
+  "timestamp": "2025-04-30T14:07:13.734219",
+  "sources": [
+    {
+      "domain": "factcheck.org",
+      "url": "https://www.factcheck.org/fact-check/Drinking-bleach-can-7897"
+    },
+    {
+      "domain": "snopes.com",
+      "url": "https://www.snopes.com/fact-check/Drinking-bleach-can-3428"
+    },
+    {
+      "domain": "reuters.com",
+      "url": "https://www.reuters.com/fact-check/Drinking-bleach-can-8381"
+    },
+    {
+      "domain": "apnews.com",
+      "url": "https://www.apnews.com/fact-check/Drinking-bleach-can-7693"
+    },
+    {
+      "domain": "politifact.com",
+      "url": "https://www.politifact.com/fact-check/Drinking-bleach-can-7176"
+    }
+  ]
+}

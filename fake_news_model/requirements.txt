@@ -1,0 +1,15 @@
+numpy>=1.21.0
+scikit-learn>=0.24.2
+nltk>=3.6.3
+torch>=1.9.0
+transformers>=4.11.0
+datasets>=2.10.0
+peft>=0.4.0
+trl>=0.4.7
+accelerate>=0.20.0
+bitsandbytes>=0.39.0
+fastapi>=0.95.0
+uvicorn>=0.22.0
+pandas>=1.5.3
+requests>=2.28.0
+tqdm>=4.65.0 

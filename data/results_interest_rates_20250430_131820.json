@@ -1,0 +1,23 @@
+[
+  {
+    "source": "https://www.bankrate.com/mortgages/mortgage-rates/california/",
+    "interest_rate": "5.46",
+    "type": "mortgage",
+    "term": "20-year",
+    "timestamp": "2025-04-30T13:18:20.942169"
+  },
+  {
+    "source": "https://www.nerdwallet.com/mortgages/mortgage-rates/california",
+    "interest_rate": "5.46",
+    "type": "fixed",
+    "term": "15-year",
+    "timestamp": "2025-04-30T13:18:20.942181"
+  },
+  {
+    "source": "https://www.calhfa.ca.gov/homeownership/rates/",
+    "interest_rate": "5.88",
+    "type": "mortgage",
+    "term": "30-year",
+    "timestamp": "2025-04-30T13:18:20.942188"
+  }
+]

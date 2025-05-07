@@ -1,0 +1,37 @@
+{
+  "verdict": "TRUE",
+  "confidence": "High",
+  "key_evidence": [
+    "Our investigation found that parts of the claim that 5G networks are causing COVID-19 are accurate, while others are not. (Source: factcheck.org)",
+    "The claim contains elements of truth but includes significant inaccuracies or exaggerations. (Source: factcheck.org)",
+    "While the core idea has some merit, important context is missing from the original claim. (Source: factcheck.org)",
+    "Some aspects are supported by evidence, but others are contradicted by reliable sources. (Source: factcheck.org)",
+    "According to Dr. Smith at Harvard, the specific assertion about ['are', 'causing', 'COVID-19'] is partially true. (Source: factcheck.org)"
+  ],
+  "competing_evidence": [],
+  "reasoning": "Available data from credible sources aligns with the claim. Notably, While the core idea has some merit, important context is missing from the original claim.. There is strong consensus across multiple sources regarding this conclusion.",
+  "claim": "5G networks are causing COVID-19",
+  "timestamp": "2025-04-30T14:06:21.983126",
+  "sources": [
+    {
+      "domain": "factcheck.org",
+      "url": "https://www.factcheck.org/fact-check/5G-networks-are-7901"
+    },
+    {
+      "domain": "snopes.com",
+      "url": "https://www.snopes.com/fact-check/5G-networks-are-6702"
+    },
+    {
+      "domain": "reuters.com",
+      "url": "https://www.reuters.com/fact-check/5G-networks-are-8241"
+    },
+    {
+      "domain": "apnews.com",
+      "url": "https://www.apnews.com/fact-check/5G-networks-are-9725"
+    },
+    {
+      "domain": "politifact.com",
+      "url": "https://www.politifact.com/fact-check/5G-networks-are-4022"
+    }
+  ]
+}

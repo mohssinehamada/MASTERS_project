@@ -1,0 +1,13 @@
+# Core dependencies
+python-dotenv>=1.0.0
+google-generativeai>=0.3.0
+beautifulsoup4>=4.12.0
+selenium>=4.10.0
+webdriver-manager>=4.0.0
+
+# Utility dependencies
+requests>=2.31.0
+tqdm>=4.66.0
+matplotlib>=3.7.0
+
+# Add any missing dependencies from your project 

@@ -1,0 +1,25 @@
+{
+  "verdict": "UNVERIFIABLE",
+  "confidence": "Low",
+  "key_evidence": [
+    "No LLM available for analysis"
+  ],
+  "competing_evidence": [],
+  "reasoning": "Without language model capabilities, detailed analysis is not possible",
+  "claim": "AI is sentient",
+  "timestamp": "2025-04-30T21:39:59.288374",
+  "sources": [
+    {
+      "domain": "snopes.com",
+      "url": "https://www.snopes.com/fact-check/"
+    },
+    {
+      "domain": "factcheck.org",
+      "url": "https://www.factcheck.org/"
+    },
+    {
+      "domain": "politifact.com",
+      "url": "https://www.politifact.com/"
+    }
+  ]
+}

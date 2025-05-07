@@ -1,0 +1,52 @@
+[
+    {
+        "claim": "The Earth is flat",
+        "evidence": "Scientific evidence shows the Earth is spherical, with a circumference of approximately 40,075 kilometers at the equator.",
+        "true_label": "FALSE"
+    },
+    {
+        "claim": "COVID-19 vaccines contain microchips",
+        "evidence": "COVID-19 vaccines contain only mRNA or viral vector components, along with standard vaccine ingredients like salts and sugars. There is no evidence of microchips or tracking devices.",
+        "true_label": "FALSE"
+    },
+    {
+        "claim": "Global temperatures have risen by 1.1°C since pre-industrial times",
+        "evidence": "According to NASA and the IPCC, global average temperatures have increased by approximately 1.1°C since the late 19th century, with most of the warming occurring in the past 40 years.",
+        "true_label": "TRUE"
+    },
+    {
+        "claim": "Drinking water with lemon every morning cures cancer",
+        "evidence": "While lemon water has some health benefits, there is no scientific evidence that it can cure cancer. Cancer treatment requires medical intervention.",
+        "true_label": "FALSE"
+    },
+    {
+        "claim": "5G towers cause COVID-19",
+        "evidence": "5G technology uses radio waves, which cannot transmit viruses. COVID-19 is caused by the SARS-CoV-2 virus and spreads through respiratory droplets.",
+        "true_label": "FALSE"
+    },
+    {
+        "claim": "Vaccines cause autism",
+        "evidence": "Multiple large-scale studies have found no link between vaccines and autism. The original study suggesting this link has been discredited and retracted.",
+        "true_label": "FALSE"
+    },
+    {
+        "claim": "The Great Wall of China is visible from space",
+        "evidence": "While the Great Wall is an impressive structure, it is not visible from space with the naked eye. This is a common misconception.",
+        "true_label": "FALSE"
+    },
+    {
+        "claim": "Humans use only 10% of their brain",
+        "evidence": "Modern brain imaging shows that humans use all parts of their brain, with different regions active during different activities.",
+        "true_label": "FALSE"
+    },
+    {
+        "claim": "The moon landing was faked",
+        "evidence": "There is overwhelming evidence supporting the Apollo moon landings, including moon rocks, photographs, and independent verification from other countries.",
+        "true_label": "FALSE"
+    },
+    {
+        "claim": "Climate change is a natural phenomenon",
+        "evidence": "While climate has changed naturally in the past, current warming is primarily caused by human activities, particularly greenhouse gas emissions.",
+        "true_label": "PARTIALLY TRUE"
+    }
+] 

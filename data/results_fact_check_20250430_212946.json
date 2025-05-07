@@ -1,0 +1,17 @@
+{
+  "verdict": "UNVERIFIABLE",
+  "confidence": "Low",
+  "key_evidence": [
+    "No LLM available for analysis"
+  ],
+  "competing_evidence": [],
+  "reasoning": "Without language model capabilities, detailed analysis is not possible",
+  "claim": "Drinking water with lemon every morning cures cancer",
+  "timestamp": "2025-04-30T21:29:46.026588",
+  "sources": [
+    {
+      "domain": "bankrate.com",
+      "url": "https://www.bankrate.com/mortgages/mortgage-rates/california/"
+    }
+  ]
+}

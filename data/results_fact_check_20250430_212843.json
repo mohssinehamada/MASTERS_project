@@ -1,0 +1,17 @@
+{
+  "verdict": "UNVERIFIABLE",
+  "confidence": "Low",
+  "key_evidence": [
+    "No LLM available for analysis"
+  ],
+  "competing_evidence": [],
+  "reasoning": "Without language model capabilities, detailed analysis is not possible",
+  "claim": "Drinking water with lemon every morning cures cancer",
+  "timestamp": "2025-04-30T21:28:43.732840",
+  "sources": [
+    {
+      "domain": "nerdwallet.com",
+      "url": "https://www.nerdwallet.com/mortgages/mortgage-rates/california"
+    }
+  ]
+}

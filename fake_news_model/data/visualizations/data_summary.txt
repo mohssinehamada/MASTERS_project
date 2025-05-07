@@ -1,0 +1,43 @@
+Dataset Summary Statistics
+========================
+
+Dataset Sizes:
+train: 8,873 examples
+validation: 986 examples
+test: 2,465 examples
+
+Label Distribution:
+
+train:
+  FALSE: 2,958
+  TRUE: 2,958
+  PARTIALLY TRUE: 2,957
+
+validation:
+  FALSE: 329
+  PARTIALLY TRUE: 329
+  TRUE: 328
+
+test:
+  PARTIALLY TRUE: 822
+  TRUE: 822
+  FALSE: 821
+
+Source Distribution:
+
+train:
+  LIAR: 5,302
+  PolitiFact: 3,571
+
+validation:
+  LIAR: 595
+  PolitiFact: 391
+
+test:
+  LIAR: 1,451
+  PolitiFact: 1,014
+
+Average Claim Length:
+train: 106.74 characters
+validation: 108.93 characters
+test: 107.66 characters

@@ -1,0 +1,52 @@
+{
+  "timestamp": "20250430_121516",
+  "summary": {
+    "total_queries": 5,
+    "successful_queries": 5,
+    "query_success_rate": 100.0,
+    "total_websites": 15,
+    "successful_websites": 10,
+    "website_success_rate": 66.66666666666666,
+    "total_rates_found": 0,
+    "avg_rates_per_query": 0.0,
+    "total_execution_time": 1191.9598989486694,
+    "avg_execution_time": 238.39197978973388
+  },
+  "results": {
+    "What are the current mortgage interest rates in California?": {
+      "search_success": true,
+      "urls_found": 5,
+      "websites_processed": 2,
+      "rates_found": 0,
+      "execution_time": 247.10446619987488
+    },
+    "Find me today's interest rates for 30-year fixed mortgages in California": {
+      "search_success": true,
+      "urls_found": 5,
+      "websites_processed": 2,
+      "rates_found": 0,
+      "execution_time": 236.34441685676575
+    },
+    "What are the best interest rates for home loans in San Francisco?": {
+      "search_success": true,
+      "urls_found": 5,
+      "websites_processed": 2,
+      "rates_found": 0,
+      "execution_time": 241.1805579662323
+    },
+    "Compare mortgage rates from different banks in California": {
+      "search_success": true,
+      "urls_found": 5,
+      "websites_processed": 2,
+      "rates_found": 0,
+      "execution_time": 232.07949900627136
+    },
+    "What is the average APR for a 15-year fixed mortgage in California?": {
+      "search_success": true,
+      "urls_found": 5,
+      "websites_processed": 2,
+      "rates_found": 0,
+      "execution_time": 235.25095891952515
+    }
+  }
+}
