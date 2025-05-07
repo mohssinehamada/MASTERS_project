@@ -48,4 +48,14 @@ fake_news_model/data/processed/
 fake_news_model/model/checkpoints/
 fake_news_model/model/logs/
 fake_news_model/model/visualizations/
-fake_news_model/model/evaluation/ 
+fake_news_model/model/evaluation/
+
+# Jupyter
+.ipynb_checkpoints
+*.ipynb_checkpoints/
+*.ipynb
+
+# BERT Models
+BERT_Transformer_Models/checkpoints/
+BERT_Transformer_Models/logs/
+BERT_Transformer_Models/models/
